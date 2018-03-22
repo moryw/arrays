@@ -19,10 +19,36 @@
 // newYearsResolutions.pop();
 
 //test some methods on a gracery list
-let groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains'];
+// let groceryList = ['orange juice', 'bananas', 'coffee beans', 'brown rice', 'pasta', 'coconut oil', 'plantains'];
+//
+// groceryList.shift(); //rm first item from beginning of list
+// groceryList.unshift('popcorn'); //add to beginning of list
+// console.log(groceryList.slice(1,4));
+//
+// console.log(groceryList);
 
-groceryList.shift(); //rm first item from beginning of list
-groceryList.unshift('popcorn'); //add to beginning of list
-console.log(groceryList.slice(1,4));
 
-console.log(groceryList);
+//test the difference between let and const on arrays
+
+let condiments = ['Ketchup', 'Mustard', 'Soy Sauce', 'Sriracha'];
+
+const utensils = ['Fork', 'Knife', 'Chopsticks', 'Spork'];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//end
