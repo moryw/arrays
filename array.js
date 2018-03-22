@@ -34,7 +34,13 @@ let condiments = ['Ketchup', 'Mustard', 'Soy Sauce', 'Sriracha'];
 
 const utensils = ['Fork', 'Knife', 'Chopsticks', 'Spork'];
 
+condiments.push('Ranch Dressing');//add item to end of array
 
+console.log(condiments);
+
+condiments = ['This has been reassigned!'];//reassign to different array
+
+console.log(condiments);
 
 
 
