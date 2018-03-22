@@ -42,6 +42,10 @@ condiments = ['This has been reassigned!'];//reassign to different array
 
 console.log(condiments);
 
+utensils.pop();
+console.log(utensils);
+
+utensils = ['Spork', 'Knife'];
 
 
 
