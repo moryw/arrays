@@ -9,3 +9,10 @@ console.log(newYearsResolutions[2]);
 console.log(newYearsResolutions[3]);
 
 newYearsResolutions[1] = 'learn a new language';
+
+console.log(newYearsResolutions.length);
+
+newYearsResolutions.push('newItem1', 'newItem2');
+console.log(newYearsResolutions);
+
+newYearsResolutions.pop();
